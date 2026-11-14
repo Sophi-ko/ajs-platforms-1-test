@@ -1,1 +1,1 @@
-# ajs-platforms-1-test
+# ajs-platforms-app
